@@ -6,6 +6,6 @@
     <version>1.0</version>
   </parent>
   <groupId>com.jdc.mdy.web</groupId>
-  <artifactId>servlet-01-hello-servlet</artifactId>
+  <artifactId>servlet-02-lifecycle</artifactId>
   <packaging>war</packaging>
 </project>
