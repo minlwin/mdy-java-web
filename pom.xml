@@ -34,6 +34,12 @@
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>9.4.25.v20191220</version>
+				<configuration>
+					<httpConnector>
+						<port>80</port>
+					</httpConnector>
+					<scanIntervalSeconds>1</scanIntervalSeconds>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
