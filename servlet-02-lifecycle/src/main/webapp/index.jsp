@@ -11,8 +11,14 @@
 	<h1>Lifecycle of Servlet</h1>
 	
 	
-	<a href="first">First Servlet</a>
-
-
+	<ul>
+		<li>
+			<a href="first">First Servlet</a>
+		</li>
+		<li>
+			<a href="generics">Generics Servlet</a>
+		</li>
+	</ul>
+	
 </body>
 </html>
