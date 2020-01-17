@@ -73,5 +73,6 @@
 		<module>servlet-01-hello-servlet</module>
 		
 		<module>servlet-02-lifecycle</module>
+		<module>servlet-03-request</module>
 	</modules>
 </project>
