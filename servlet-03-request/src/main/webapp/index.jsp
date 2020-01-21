@@ -13,7 +13,7 @@
 	<ul>
 		<li><a href="params.jsp">Request Parameter</a></li>
 		<li><a href="protocol">Http Protocol Informations</a></li>
-		<li><a href="servlet-info">Servlet Informations</a></li>
+		<li><a href="servlet-info?test=true">Servlet Informations</a></li>
 	</ul>
 
 </body>
